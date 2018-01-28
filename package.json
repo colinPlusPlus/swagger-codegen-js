@@ -1,0 +1,21 @@
+{
+  "name": "cherwell_rest_api",
+  "version": "9.2.0",
+  "description": "a_href____index_htmlCherwell_Rest_API_DocumentationabrSelect_version_options_from_the_header_drop_down_list__to_the_left_of_the_Client_Key_box__Then_click_Explore_to_view_different_versions_of_operations_",
+  "license": "Unlicense",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "browser": {
+    "fs": false
+  },
+  "dependencies": {
+    "superagent": "3.5.2"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "sinon": "1.17.3",
+    "expect.js": "~0.3.1"
+  }
+}
